@@ -5,7 +5,7 @@
 [<img align="left" alt="salomonserfati | Discord" width="22px" src="./twitter.svg" />][discord]
 <br>
 
-## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I am curious and love building ⚒️
+## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I love to learn and build ⚒️
 
 <br>
 - I currently have two projects I am working on, [myTenPercent](#myTenPercent) and [GrooveTree](#GrooveTree). I currently work as a backend engineer at BlackRock and I was previously on the founding team of [Forage](https://www.joinforage.com). 
