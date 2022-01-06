@@ -19,7 +19,7 @@
   <img align="left" alt="node.js" width="48px" title="node.js" src="./nodejs-original.svg" />
   <img align="left" alt="solidity" width="48px" height="48px" title="solidity" src="./solidity.svg" />
   <img align="left" alt="react" width="48px" title="react" src="./react-original-wordmark.svg" />
-  <img align="left" alt="mongoDB" width="48px" title="react" src="./mongoDB.svg" />
+  <img align="left" alt="mongoDB" width="150px" title="react" src="./mongoDB.svg" />
 </div>
 
 <br><br><br>
