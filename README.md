@@ -2,7 +2,6 @@
 
 [<img align="left" alt="salomonserfati | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="salomonserfati | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="salomonserfati | Discord" width="22px" src="./discord.svg" />][discord]
 <br>
 
 ## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I love to learn and build ⚒️
@@ -52,7 +51,6 @@ GrooveTree creates composable music NFTs ([5 min demo](https://www.loom.com/shar
 
 [linkedin]: https://www.linkedin.com/in/salomon-serfati-8ba836112/
 [twitter]:https://twitter.com/salomonserfati
-[discord]: Salo#0938
 
 <!---
 salo1serfati/salo1serfati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
