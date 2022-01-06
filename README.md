@@ -19,14 +19,11 @@
 ## My current stack and tools
 
 <div>
-  <img align="left" alt="javascript" width="48px" title="javascript" src="./javascript-original.svg" />
+  <img align="left" alt="java.js" width="48px" title="java.js" src="./java.svg" />
   <img align="left" alt="node.js" width="48px" title="node.js" src="./nodejs-original.svg" />
   <img align="left" alt="solidity" width="48px" height="48px" title="solidity" src="./solidity.svg" />
   <img align="left" alt="react" width="48px" title="react" src="./react-original-wordmark.svg" />
-  [TODO: add Java]
-  [TODO: add MongoDB]
-  [TODO: add Figma?]
-  [TODO: add Unit.co?]
+  <img align="left" alt="mongoDB" width="48px" title="react" src="./mongoDB.svg" />
 </div>
 
 <br>
@@ -51,13 +48,6 @@
 <h3>GrooveTree</h3>
 
 GrooveTree creates composable music NFTs ([5 min demo](https://www.loom.com/share/c4b7ce1967cb47fb9d7817e28e78a9ce)). GrooveTree was build using two Solidity contracts developed on hardhat ([repo here](https://github.com/gerantonyk/groovetree-hardhat)). The frontend was built on React, which also is responsible for storing the NFT's metadata in IPFS ([repo here](https://github.com/mugungalabz/groovetree)). Groovetree was developed as a team of three.  
-
-<p>
-  <a><img align="left" alt="wipit1" title="wipit1" src="./wipit1.png" /></a>
-  &nbsp;
-  <a><img align="left" alt="wipit2" title="wipit2" src="./wipit2.png" /></a>
-
-</p> 
 
 
 [linkedin]: https://www.linkedin.com/in/salomon-serfati-8ba836112/
