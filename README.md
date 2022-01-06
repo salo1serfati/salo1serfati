@@ -1,7 +1,6 @@
 # Hi I'm Salo Serfati! 👋
-
-[<img align="left" alt="salomonserfati | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="salomonserfati | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="salomonserfati | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <br>
 
 ## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I love to learn and build ⚒️
@@ -37,7 +36,7 @@
 
 <h3>GrooveTree</h3>
 
-GrooveTree creates composable music NFTs ([5 min demo](https://www.loom.com/share/c4b7ce1967cb47fb9d7817e28e78a9ce)). GrooveTree was build using two Solidity contracts developed on hardhat ([repo here](https://github.com/gerantonyk/groovetree-hardhat)). The frontend was built on React, which also is responsible for storing the NFT's metadata in IPFS ([repo here](https://github.com/mugungalabz/groovetree)). Groovetree was developed as a team of three.  
+GrooveTree creates composable music NFTs ([5 min demo](https://www.loom.com/share/c4b7ce1967cb47fb9d7817e28e78a9ce)). GrooveTree was build using two Solidity contracts developed on hardhat ([repo](https://github.com/gerantonyk/groovetree-hardhat)). The frontend was built on React, which also is responsible for storing the NFT's metadata in IPFS ([repo](https://github.com/mugungalabz/groovetree)). Groovetree was developed as a team of three.  
 
 
 [linkedin]: https://www.linkedin.com/in/salomon-serfati-8ba836112/
