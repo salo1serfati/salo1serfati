@@ -2,7 +2,7 @@
 
 [<img align="left" alt="salomonserfati | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="salomonserfati | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="salomonserfati | Discord" width="22px" src="./twitter.svg" />][discord]
+[<img align="left" alt="salomonserfati | Discord" width="22px" src="./discord.svg" />][discord]
 <br>
 
 ## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I love to learn and build ⚒️
