@@ -3,11 +3,11 @@
 [<img align="left" alt="salomonserfati | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <br>
 
-## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast. I love to learn and build ⚒️
+## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast ⚒️
 
-- I currently have two projects I am working on, [myTenPercent](#myTenPercent) and [GrooveTree](#GrooveTree). I currently work as a backend engineer at BlackRock with an outperformance rating. I was previously on the founding team of [Forage](https://www.joinforage.com). 
+- I currently have two projects I am working on, [myTenPercent](#myTenPercent) and [GrooveTree](#GrooveTree). I currently work as a backend engineer at BlackRock. I was previously on the founding team of [Forage](https://www.joinforage.com). 
 
-- I studied CIS at the University of Pennsylvannia and gradauted with honors. I am also a [Chainshot](https://www.chainshot.com/bootcamp) graduate, where I learned the skills necessary to be an effective Ethereum smart contract developer.  
+- I studied CIS at the University of Pennsylvannia. I am also a [Chainshot](https://www.chainshot.com/bootcamp) graduate, where I learned the skills necessary to be an effective Ethereum smart contract developer.  
 
 - Here is [📚 my reading list](https://www.goodreads.com/review/list/141243083-salo-serfati?utf8=%E2%9C%93&utf8=%E2%9C%93&ref=nav_mybooks&shelf=read&view=covers&title=salo-serfati&per_page=infinite) and some of [🎨 my creative work]()
 
