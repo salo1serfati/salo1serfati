@@ -5,7 +5,7 @@
 
 ## I'm a full stack developer, entreprenuer, and blockchain/philanthropy enthusiast ⚒️
 
-- I currently have two projects I am working on, [myTenPercent](#myTenPercent) and [GrooveTree](#GrooveTree). I currently work as a backend engineer at BlackRock. I was previously on the founding team of [Forage](https://www.joinforage.com). 
+- I currently have two projects I am working on, [myTenPercent](#myTenPercent) and [GrooveTree](#GrooveTree). I was previously a backend engineer at BlackRock and on the founding team of [Forage](https://www.joinforage.com). 
 
 - I studied CIS at the University of Pennsylvannia. I am also a [Chainshot](https://www.chainshot.com/bootcamp) graduate, where I learned the skills necessary to be an effective Ethereum smart contract developer.  
 
